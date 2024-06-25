@@ -67,7 +67,7 @@ The CRISP-DM model was thoroughly followed:
 
 ## Conclusions
 
-The following is the report shared with the customer:
+The following is a brief report shared with the customer:
 
 ### Overview
 
