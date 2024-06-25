@@ -114,13 +114,12 @@ Brand
 
 Based on these findings, the following recommendations may help improve inventory management:
 
-* Maintain an updated fleet. Although the occasional vintage or restored vehicle may generate a high revenue transaction, most higher price sales should be driven by newer vehicles.
-* Low milage seems to be preferred and pay for by customers. Lease returns with limited milage by contract and second cars should be great options.
-* Pickup, Trucks, and sedans appear to have higher sale prices.
-* As always, a vehicle in mint condition should apprise at a much higher price. Single owner or owners with no family or pets are desirable options to source these type of cars for resale.
-* Additionally, characteristics like a clean Title, European brands, and Automatic transmission seem to sale at a higher price.
+* Maintain an updated fleet. Although the occasional vintage or restored vehicle may generate a high revenue transaction, most higher price sales should be driven by newer vehicles
+* Low milage seems to be preferred and pay for by customers. Lease returns with limited milage by contract and second cars should be great options
+* Pickups, trucks, and sedans appear to have higher sale prices
+* As always, a vehicle in mint condition should apprise at a much higher price. Single owner or owners with no family or pets are desirable options to source these type of cars for resale
+* Additionally, characteristics like a clean Title, European brands, and Automatic transmission seem to sale at a higher price
 
 ### Considerations
 
-Despite the best effort to prepare and analyze the data within project's time frame, further work should be done to improve this process in order to gain further insight and more detailed recommendations on how to best manage vehicle inventory.
 Despite the best effort to prepare and analyze the data within project's time frame, further work should be done to improve this process in order to gain further insight and more detailed recommendations on how to best manage vehicle inventory.
