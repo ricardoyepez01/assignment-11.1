@@ -4,7 +4,7 @@
 
 This is a Practical Application Assignment for the Professional Certification in Machine Learning and Artificial Intelligence program at UC Berkeley Executive Education
 
-A dataset from kaggle will be used. The original dataset contained information on 3 million used cars sales but for this purpose the dataset will be limited to the information on 426K cars to ensure speed of processing.
+A dataset from kaggle was used. The original dataset contained information on 3 million used cars sales but for this purpose the dataset was limited to the information on 426K cars to ensure speed of processing.
 
 ## Objective
 
