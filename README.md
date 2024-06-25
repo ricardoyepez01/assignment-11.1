@@ -119,7 +119,8 @@ The following is a brief report shared with the customer:
   * Pickups, trucks, and sedans appear to have higher sale prices
   * As always, a vehicle in mint condition should apprise at a much higher price. Single owner or owners with no family or pets are desirable options to source these type of cars for resale
   * Additionally, characteristics like a clean Title, European brands, and Automatic transmission seem to sale at a higher price
-  
+  * Ultimately, this AI modeling process can be used to more accurately set pricing to existing car inventory based on market conditions and desired features  
+
   ### Considerations
   
   Despite the best effort to prepare and analyze the data within project's time frame, further work should be done to improve this process in order to gain further insight and more detailed recommendations on how to best manage vehicle inventory.
