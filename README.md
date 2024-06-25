@@ -69,57 +69,57 @@ The CRISP-DM model was thoroughly followed:
 
 The following is a brief report shared with the customer:
 
-### Overview
-
-The intent of this project is to analyze data from past sales of used cars in order to identify the different characteristics in a vehicle that influence the sale price so available and future inventory can be managed to improve sales and consequently increase revenue
-
-### Description
-
-The sales data was procured from a well-known internet source (Kaggle) and it contains a large amount of historical transaction records with vehicle information like:
-
-Sale Price
-Model Year
-Make and Model
-Condition
-Engine size and Fuel Type
-Odometer
-Status of the Title
-Transmission
-VIN
-Drivetrain
-Size
-Type of Vehicle
-Color
-Registration State
-
-The available data was evaluated and processed to ensure accuracy and then analyzed through different Artificial Intelligence models that can identify the factors that influence the most the sale price.
-
-### Conclusions
-
-After thorough simulation and careful evaluation of the modeling process, the following characteristics were deemed critical in driving the sale price:
-
-Age
-Odometer
-Type
-Condition
-
-As these findings may be expected, it is important to note that historical data analysis seems to reinforce those notions. Additionally, the following characteristics also have considerable influence, to a lesser degree:
-
-Title
-Fuel Type
-Transmission
-Brand
-
-### Recommendations
-
-Based on these findings, the following recommendations may help improve inventory management:
-
-* Maintain an updated fleet. Although the occasional vintage or restored vehicle may generate a high revenue transaction, most higher price sales should be driven by newer vehicles
-* Low milage seems to be preferred and pay for by customers. Lease returns with limited milage by contract and second cars should be great options
-* Pickups, trucks, and sedans appear to have higher sale prices
-* As always, a vehicle in mint condition should apprise at a much higher price. Single owner or owners with no family or pets are desirable options to source these type of cars for resale
-* Additionally, characteristics like a clean Title, European brands, and Automatic transmission seem to sale at a higher price
-
-### Considerations
-
-Despite the best effort to prepare and analyze the data within project's time frame, further work should be done to improve this process in order to gain further insight and more detailed recommendations on how to best manage vehicle inventory.
+  ### Overview
+  
+  The intent of this project is to analyze data from past sales of used cars in order to identify the different characteristics in a vehicle that influence the sale price so available and future inventory can be managed to improve sales and consequently increase revenue
+  
+  ### Description
+  
+  The sales data was procured from a well-known internet source (Kaggle) and it contains a large amount of historical transaction records with vehicle information like:
+  
+  Sale Price
+  Model Year
+  Make and Model
+  Condition
+  Engine size and Fuel Type
+  Odometer
+  Status of the Title
+  Transmission
+  VIN
+  Drivetrain
+  Size
+  Type of Vehicle
+  Color
+  Registration State
+  
+  The available data was evaluated and processed to ensure accuracy and then analyzed through different Artificial Intelligence models that can identify the factors that influence the most the sale price.
+  
+  ### Conclusions
+  
+  After thorough simulation and careful evaluation of the modeling process, the following characteristics were deemed critical in driving the sale price:
+  
+  Age
+  Odometer
+  Type
+  Condition
+  
+  As these findings may be expected, it is important to note that historical data analysis seems to reinforce those notions. Additionally, the following characteristics also have considerable influence, to a lesser degree:
+  
+  Title
+  Fuel Type
+  Transmission
+  Brand
+  
+  ### Recommendations
+  
+  Based on these findings, the following recommendations may help improve inventory management:
+  
+  * Maintain an updated fleet. Although the occasional vintage or restored vehicle may generate a high revenue transaction, most higher price sales should be driven by newer vehicles
+  * Low milage seems to be preferred and pay for by customers. Lease returns with limited milage by contract and second cars should be great options
+  * Pickups, trucks, and sedans appear to have higher sale prices
+  * As always, a vehicle in mint condition should apprise at a much higher price. Single owner or owners with no family or pets are desirable options to source these type of cars for resale
+  * Additionally, characteristics like a clean Title, European brands, and Automatic transmission seem to sale at a higher price
+  
+  ### Considerations
+  
+  Despite the best effort to prepare and analyze the data within project's time frame, further work should be done to improve this process in order to gain further insight and more detailed recommendations on how to best manage vehicle inventory.
