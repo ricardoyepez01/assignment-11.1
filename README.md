@@ -77,20 +77,20 @@ The following is a brief report shared with the customer:
   
   The sales data was procured from a well-known internet source (Kaggle) and it contains a large amount of historical transaction records with vehicle information like:
   
-  Sale Price
-  Model Year
-  Make and Model
-  Condition
-  Engine size and Fuel Type
-  Odometer
-  Status of the Title
-  Transmission
-  VIN
-  Drivetrain
-  Size
-  Type of Vehicle
-  Color
-  Registration State
+  * Sale Price
+  * Model Year
+  * Make and Model
+  * Condition
+  * Engine size and Fuel Type
+  * Odometer
+  * Status of the Title
+  * Transmission
+  * VIN
+  * Drivetrain
+  * Size
+  * Type of Vehicle
+  * Color
+  * Registration State
   
   The available data was evaluated and processed to ensure accuracy and then analyzed through different Artificial Intelligence models that can identify the factors that influence the most the sale price.
   
@@ -98,17 +98,17 @@ The following is a brief report shared with the customer:
   
   After thorough simulation and careful evaluation of the modeling process, the following characteristics were deemed critical in driving the sale price:
   
-  Age
-  Odometer
-  Type
-  Condition
+  * Age
+  * Odometer
+  * Type
+  * Condition
   
   As these findings may be expected, it is important to note that historical data analysis seems to reinforce those notions. Additionally, the following characteristics also have considerable influence, to a lesser degree:
   
-  Title
-  Fuel Type
-  Transmission
-  Brand
+  * Title
+  * Fuel Type
+  * Transmission
+  * Brand
   
   ### Recommendations
   
